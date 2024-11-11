@@ -2,6 +2,7 @@
 - 👀 I am always interested in learning new technology. My favorite programming language is Javascript because of my interest in web development.
 - 👀 I also have experience working in C, C++, Java, PHP, Python, Figma, HTML, CSS. 
 - 📫 Email:tup19966@temple.edu
+- 📫 Alternative Email:nasir.thoky12@gmail.com
 - 😄 Pronouns: He/him
 
 <!---
